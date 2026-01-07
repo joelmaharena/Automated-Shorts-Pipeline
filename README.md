@@ -106,7 +106,6 @@ crontab -e
 twitch_clips/
 ├── main.py              # Main pipeline script
 ├── requirements.txt     # Python dependencies
-├── .env                 # Your configuration (not committed)
 ├── .env.example         # Configuration template
 ├── client_secrets.json  # YouTube OAuth credentials
 ├── token.json           # Saved YouTube auth token
